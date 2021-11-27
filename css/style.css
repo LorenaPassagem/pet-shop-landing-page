@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(243, 243, 91);
+}
+
+.menu{
+    background: rgb(245, 241, 241);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px;
+}
+
+.logo{
+    margin: 2% 0 2% 2%;
+}
+
+.navemenu ul{
+    padding-right: 20px ;
+}
+
+.navemenu li{
+    display: inline;
+    margin: 5px;
+}
+
+.navemenu a {
+    text-decoration: none;
+}
